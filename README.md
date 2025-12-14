@@ -1,4 +1,4 @@
-# Sudoku-algorithm
+# algorithms algorithm
 leet code algorothm that is sudoku
 using System;
 
